@@ -4,7 +4,7 @@
  * User: lawrance
  * Date: 16/10/26
  * Time: 下午1:50
- * function  指定用户发送文本信息借口 {:U('Home/GroupSend/sendTextArray')} POST数据：用户学号数组、发送文本内容（支持HTML） 网址：http://HOST:PORT/CES/index.php/Home/GroupSend/sendTextArray
+ * function  指定用户发送文本信息 POST数据：用户id数组、发送文本内容（支持HTML） 网址：http://HOST:PORT/IPSENWeChat/index.php/Home/GroupSend/allSendNews
  */
 
 namespace Home\Controller;

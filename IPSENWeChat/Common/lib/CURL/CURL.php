@@ -2,7 +2,7 @@
 
 class CURL
 {
-	/**
+	/*
      * 发送HTTP请求方法
      * @param  string $url    请求URL
      * @param  array  $params 请求参数
